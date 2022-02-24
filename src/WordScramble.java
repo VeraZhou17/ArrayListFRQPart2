@@ -40,6 +40,7 @@ public class WordScramble
         return result;
     }
 
+    // hello
     /** Modifies wordList by replacing each word with its scrambled
      *  version, removing any words that are unchanged as a result of scrambling.
      *
